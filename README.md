@@ -1,3 +1,2 @@
-# Just ML tutorials
+ML tutorials and projects
 
-Let's go!
